@@ -1,0 +1,19 @@
+Country,HappinessScore,GDPperCapita,Continent
+Finland,7.8,1.45,Europe
+Denmark,7.6,1.46,Europe
+Iceland,7.5,1.38,Europe
+Israel,7.5,1.33,Asia
+Netherlands,7.4,1.46,Europe
+Sweden,7.3,1.45,Europe
+Norway,7.3,1.49,Europe
+Switzerland,7.2,1.47,Europe
+Australia,7.1,1.45,Oceania
+New Zealand,7.1,1.43,Oceania
+Canada,6.9,1.47,North America
+United States,6.9,1.55,North America
+Costa Rica,6.7,1.20,South America
+Brazil,6.2,1.05,South America
+Singapore,6.5,1.61,Asia
+India,4.0,0.82,Asia
+Nigeria,4.3,0.90,Africa
+South Africa,5.2,1.01,Africa
